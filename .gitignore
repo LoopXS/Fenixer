@@ -1,0 +1,4 @@
+dist/*
+build/*
+Fenix.egg-info/*
+__pycache__
